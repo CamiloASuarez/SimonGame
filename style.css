@@ -37,22 +37,22 @@ body{
   background: #05d605;
 }
 .red {
-  background: red;
+  background: #9b0000;
 }
 .red.light{
-  background: #fa6363;
+  background: #ff0d0dd3;
 }
 .yellow {
-  background: yellow;
+  background: #d6d600;
 }
 .yellow.light{
-  background: rgb(239, 241, 96);
+  background: #fcff2d;
 }
 .blue {
-  background: blue;
+  background: #0000e6;
 }
 .blue.light{
-  background: rgb(0, 110, 255);
+  background: #006eff;
 }
 .start-btn{
   width: 400px;
